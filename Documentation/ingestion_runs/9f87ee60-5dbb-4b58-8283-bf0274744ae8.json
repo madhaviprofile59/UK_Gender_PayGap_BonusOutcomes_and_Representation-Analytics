@@ -1,0 +1,12 @@
+{
+    "run_id": "9f87ee60-5dbb-4b58-8283-bf0274744ae8",
+    "started_at": "2026-11-19T13:36:20+00:00",
+    "source_filename": "UK_Gender_Pay_Gap_50000_rows.csv",
+    "status": "succeeded",
+    "csv_load_status": "succeeded",
+    "actual_row_count": 50000,
+    "actual_column_count": 14,
+    "conversion_failure_count": 0,
+    "conversion_check_status": "passed",
+    "finished_at": "2026-11-20T00:19:11+00:00"
+}
