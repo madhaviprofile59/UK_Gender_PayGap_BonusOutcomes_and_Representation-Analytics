@@ -1,0 +1,409 @@
+employee_id,gender,department,job_title,job_level,years_at_company,contracted_hours_per_week,work_location,ethnicity,annual_base_pay_gbp,annual_bonus_gbp,total_annual_pay_gbp,employment_type,hire_date,source_row_number,work_location_warning_flag,gender_warning_flag,warning_reason_codes
+E000059,Female,HR,Lead,2,16.2,30.0,Not Recorded,Asian,30400,645.72,31045.72,Permanent,2025-12-13,60,True,False,MISSING_WORK_LOCATION
+E000128,Female,Operations,Lead,2,6.8,37.5,Not Recorded,Prefer not to say,25200,3048.18,28248.18,Part-time,2022-12-06,129,True,False,MISSING_WORK_LOCATION
+E000225,Female,Marketing,Senior Analyst,2,13.8,37.5,Not Recorded,Other,26500,3082.79,29582.79,Part-time,2023-09-23,226,True,False,MISSING_WORK_LOCATION
+E000284,Not Recorded,Engineering,Lead,1,2.4,20.0,Leeds,Black,34700,5569.2,40269.2,Fixed-term,2023-11-23,285,False,True,MISSING_OR_INCONSISTENT_GENDER
+E000304,Female,Product,Senior Analyst,3,15.2,37.5,Not Recorded,Black,47600,5006.06,52606.06,Permanent,2020-05-07,305,True,False,MISSING_WORK_LOCATION
+E000732,Female,Engineering,Specialist,4,8.9,40.0,Not Recorded,Prefer not to say,81200,2927.89,84127.89,Fixed-term,2023-05-04,733,True,False,MISSING_WORK_LOCATION
+E000752,Male,Data,Specialist,2,17.9,30.0,Not Recorded,White,29700,3396.25,33096.25,Part-time,2018-11-02,753,True,False,MISSING_WORK_LOCATION
+E000770,Not Recorded,Operations,Senior Analyst,4,12.3,35.0,Birmingham,Asian,52000,237.47,52237.47,Fixed-term,2025-02-26,771,False,True,MISSING_OR_INCONSISTENT_GENDER
+E000794,Male,Finance,Senior Analyst,1,5.1,20.0,Not Recorded,Other,25400,2117.93,27517.93,Part-time,2024-10-18,795,True,False,MISSING_WORK_LOCATION
+E000865,Not Recorded,Finance,Specialist,2,15.1,20.0,Remote,Mixed,33800,4604.22,38404.22,Fixed-term,2019-09-18,866,False,True,MISSING_OR_INCONSISTENT_GENDER
+E000947,Not Recorded,Product,Analyst,3,5.7,25.0,Manchester,White,42900,2307.83,45207.83,Permanent,2018-08-28,948,False,True,MISSING_OR_INCONSISTENT_GENDER
+E000970,Not Recorded,Engineering,Senior Analyst,1,12.1,40.0,Birmingham,White,29500,2295.88,31795.88,Permanent,2018-12-09,971,False,True,MISSING_OR_INCONSISTENT_GENDER
+E001069,Not Recorded,Legal,Specialist,3,2.0,25.0,Birmingham,Asian,51600,1773.36,53373.36,Fixed-term,2018-06-22,1070,False,True,MISSING_OR_INCONSISTENT_GENDER
+E001101,Not Recorded,Marketing,Analyst,1,4.1,35.0,Glasgow,Black,26500,1611.06,28111.06,Fixed-term,2022-03-29,1102,False,True,MISSING_OR_INCONSISTENT_GENDER
+E001153,Male,Support,Senior Analyst,3,1.5,37.5,Not Recorded,Black,35400,3532.71,38932.71,Permanent,2020-03-09,1154,True,False,MISSING_WORK_LOCATION
+E001241,Not Recorded,Finance,Specialist,2,5.9,37.5,Not Recorded,Prefer not to say,44900,4335.77,49235.77,Fixed-term,2022-08-25,1242,True,True,MISSING_WORK_LOCATION | MISSING_OR_INCONSISTENT_GENDER
+E001323,Male,Marketing,Manager,1,7.0,37.5,Not Recorded,Mixed,22900,2488.64,25388.64,Fixed-term,2024-01-29,1324,True,False,MISSING_WORK_LOCATION
+E001587,Not Recorded,Operations,Analyst,1,16.1,30.0,Leeds,Other,26200,97.03,26297.03,Part-time,2021-04-27,1588,False,True,MISSING_OR_INCONSISTENT_GENDER
+E001618,Female,Marketing,Manager,2,8.4,30.0,Not Recorded,Asian,35000,1233.41,36233.41,Fixed-term,2022-06-23,1619,True,False,MISSING_WORK_LOCATION
+E001677,Female,Data,Lead,3,13.6,35.0,Not Recorded,Asian,47100,6777.59,53877.59,Fixed-term,2024-11-04,1678,True,False,MISSING_WORK_LOCATION
+E001774,Not Recorded,Operations,Analyst,2,20.2,35.0,London,Asian,26600,476.09,27076.09,Fixed-term,2021-01-28,1775,False,True,MISSING_OR_INCONSISTENT_GENDER
+E001817,Not Recorded,Finance,Lead,2,21.3,37.5,London,Asian,36100,4819.75,40919.75,Fixed-term,2021-06-04,1818,False,True,MISSING_OR_INCONSISTENT_GENDER
+E001874,Male,Product,Manager,4,11.9,37.5,Not Recorded,Prefer not to say,66400,3294.07,69694.07,Fixed-term,2026-03-07,1875,True,False,MISSING_WORK_LOCATION
+E002181,Female,Support,Analyst,2,20.2,20.0,Not Recorded,Mixed,29300,1074.12,30374.12,Part-time,2025-06-05,2182,True,False,MISSING_WORK_LOCATION
+E002230,Female,Sales,Senior Analyst,5,21.1,20.0,Not Recorded,Other,79500,7002.76,86502.76,Fixed-term,2018-06-25,2231,True,False,MISSING_WORK_LOCATION
+E002533,Not Recorded,Sales,Senior Analyst,4,13.3,30.0,Birmingham,Black,48700,5090.99,53790.99,Fixed-term,2022-08-26,2534,False,True,MISSING_OR_INCONSISTENT_GENDER
+E002543,Female,Data,Analyst,3,20.8,30.0,Not Recorded,Asian,52800,5528.24,58328.24,Fixed-term,2021-01-04,2544,True,False,MISSING_WORK_LOCATION
+E002605,Female,Sales,Analyst,1,5.2,35.0,Not Recorded,Other,27700,3843.69,31543.69,Permanent,2026-02-23,2606,True,False,MISSING_WORK_LOCATION
+E002762,Male,Marketing,Analyst,3,14.9,35.0,Not Recorded,Prefer not to say,43000,2735.08,45735.08,Fixed-term,2019-06-21,2763,True,False,MISSING_WORK_LOCATION
+E002852,Male,Support,Specialist,2,8.8,37.5,Not Recorded,Other,28600,4056.98,32656.98,Part-time,2026-01-12,2853,True,False,MISSING_WORK_LOCATION
+E003161,Not Recorded,Engineering,Senior Analyst,4,17.6,30.0,Bristol,Mixed,69400,3863.95,73263.95,Part-time,2026-09-14,3162,False,True,MISSING_OR_INCONSISTENT_GENDER
+E003403,Male,Support,Lead,2,4.6,35.0,Not Recorded,White,31500,98.13,31598.13,Permanent,2025-05-04,3404,True,False,MISSING_WORK_LOCATION
+E003877,Not Recorded,Finance,Senior Analyst,2,4.9,30.0,Leeds,Black,32500,5303.93,37803.93,Permanent,2026-09-09,3878,False,True,MISSING_OR_INCONSISTENT_GENDER
+E004189,Female,Legal,Specialist,1,6.9,40.0,Not Recorded,Asian,32300,1777.74,34077.74,Fixed-term,2023-12-27,4190,True,False,MISSING_WORK_LOCATION
+E004283,Male,Product,Analyst,2,9.7,20.0,Not Recorded,Mixed,42000,2785.43,44785.43,Permanent,2026-09-17,4284,True,False,MISSING_WORK_LOCATION
+E004289,Male,Support,Analyst,3,17.9,37.5,Not Recorded,Prefer not to say,36000,2127.03,38127.03,Permanent,2018-04-07,4290,True,False,MISSING_WORK_LOCATION
+E004389,Not Recorded,HR,Lead,2,13.8,25.0,London,White,31100,4877.76,35977.76,Permanent,2022-05-22,4390,False,True,MISSING_OR_INCONSISTENT_GENDER
+E004417,Female,Sales,Specialist,2,6.4,37.5,Not Recorded,Asian,39700,792.4,40492.4,Permanent,2018-02-11,4418,True,False,MISSING_WORK_LOCATION
+E004581,Female,Marketing,Specialist,2,18.4,35.0,Not Recorded,Mixed,32300,3948.67,36248.67,Permanent,2024-08-09,4582,True,False,MISSING_WORK_LOCATION
+E004619,Female,Finance,Senior Analyst,2,10.6,40.0,Not Recorded,Asian,45300,7456.7,52756.7,Part-time,2025-06-06,4620,True,False,MISSING_WORK_LOCATION
+E004620,Not Recorded,Product,Specialist,2,10.6,25.0,Remote,Prefer not to say,40000,3600.85,43600.85,Fixed-term,2022-01-20,4621,False,True,MISSING_OR_INCONSISTENT_GENDER
+E004630,Not Recorded,Operations,Manager,1,10.0,25.0,London,Other,21900,3320.91,25220.91,Permanent,2026-08-01,4631,False,True,MISSING_OR_INCONSISTENT_GENDER
+E004757,Not Recorded,HR,Lead,3,21.0,20.0,Leeds,Other,28200,2917.74,31117.74,Fixed-term,2019-05-18,4758,False,True,MISSING_OR_INCONSISTENT_GENDER
+E004961,Not Recorded,Product,Manager,1,7.2,35.0,Glasgow,Other,31200,298.12,31498.12,Fixed-term,2018-10-28,4962,False,True,MISSING_OR_INCONSISTENT_GENDER
+E005083,Female,Sales,Analyst,1,15.3,37.5,Not Recorded,Asian,26100,2159.9,28259.9,Permanent,2019-09-02,5084,True,False,MISSING_WORK_LOCATION
+E005312,Not Recorded,Legal,Lead,1,17.3,30.0,Manchester,Black,37600,5534.97,43134.97,Part-time,2026-03-20,5313,False,True,MISSING_OR_INCONSISTENT_GENDER
+E005517,Female,Finance,Senior Analyst,4,13.6,30.0,Not Recorded,Other,65700,6560.94,72260.94,Fixed-term,2023-10-01,5518,True,False,MISSING_WORK_LOCATION
+E005664,Male,Data,Specialist,1,14.8,25.0,Not Recorded,Prefer not to say,28400,2816.32,31216.32,Part-time,2026-08-01,5665,True,False,MISSING_WORK_LOCATION
+E005758,Male,Support,Manager,3,21.4,20.0,Not Recorded,Asian,32000,4211.68,36211.68,Part-time,2020-05-27,5759,True,False,MISSING_WORK_LOCATION
+E005773,Female,Finance,Specialist,4,18.4,30.0,Not Recorded,Other,46500,3726.26,50226.26,Part-time,2021-02-05,5774,True,False,MISSING_WORK_LOCATION
+E006075,Not Recorded,Data,Lead,2,11.4,37.5,Remote,Prefer not to say,40400,6391.7,46791.7,Part-time,2026-04-03,6076,False,True,MISSING_OR_INCONSISTENT_GENDER
+E006410,Male,Product,Senior Analyst,2,19.4,35.0,Not Recorded,White,38100,2415.82,40515.82,Part-time,2024-07-02,6411,True,False,MISSING_WORK_LOCATION
+E006645,Female,Support,Specialist,5,20.1,37.5,Not Recorded,Other,48500,5584.38,54084.38,Part-time,2018-01-12,6646,True,False,MISSING_WORK_LOCATION
+E006990,Not Recorded,Marketing,Manager,1,16.5,40.0,Birmingham,White,24400,2002.85,26402.85,Permanent,2018-02-23,6991,False,True,MISSING_OR_INCONSISTENT_GENDER
+E007068,Not Recorded,Marketing,Analyst,5,2.4,37.5,Bristol,Black,82800,249.04,83049.04,Permanent,2024-04-06,7069,False,True,MISSING_OR_INCONSISTENT_GENDER
+E007083,Female,Marketing,Analyst,3,6.0,25.0,Not Recorded,Asian,42200,795.88,42995.88,Fixed-term,2018-03-20,7084,True,False,MISSING_WORK_LOCATION
+E007244,Not Recorded,HR,Analyst,3,17.5,35.0,Birmingham,Black,38000,1349.47,39349.47,Part-time,2023-10-22,7245,False,True,MISSING_OR_INCONSISTENT_GENDER
+E007268,Female,Operations,Analyst,4,16.3,30.0,Not Recorded,Black,53400,4178.2,57578.2,Part-time,2019-11-19,7269,True,False,MISSING_WORK_LOCATION
+E007346,Female,Support,Specialist,2,11.7,37.5,Not Recorded,White,31100,4046.4,35146.4,Fixed-term,2025-11-25,7347,True,False,MISSING_WORK_LOCATION
+E007402,Female,Operations,Senior Analyst,4,0.6,30.0,Not Recorded,Asian,55000,5169.58,60169.58,Permanent,2024-01-29,7403,True,False,MISSING_WORK_LOCATION
+E007406,Not Recorded,Data,Senior Analyst,1,9.6,20.0,Bristol,Asian,36900,4122.48,41022.48,Fixed-term,2020-10-07,7407,False,True,MISSING_OR_INCONSISTENT_GENDER
+E007575,Male,Product,Lead,1,9.1,40.0,Not Recorded,Other,33600,4171.41,37771.41,Part-time,2019-06-08,7576,True,False,MISSING_WORK_LOCATION
+E007605,Not Recorded,Engineering,Analyst,1,10.6,25.0,Manchester,Black,35700,2877.3,38577.3,Part-time,2020-03-17,7606,False,True,MISSING_OR_INCONSISTENT_GENDER
+E007925,Female,Finance,Senior Analyst,1,11.4,30.0,Not Recorded,White,24800,1840.9,26640.9,Fixed-term,2023-04-12,7926,True,False,MISSING_WORK_LOCATION
+E008126,Not Recorded,Legal,Senior Analyst,3,17.6,40.0,Glasgow,Other,48200,4425.66,52625.66,Permanent,2018-01-02,8127,False,True,MISSING_OR_INCONSISTENT_GENDER
+E008138,Not Recorded,Product,Lead,1,10.8,40.0,Glasgow,Black,33900,1786.36,35686.36,Part-time,2019-02-27,8139,False,True,MISSING_OR_INCONSISTENT_GENDER
+E008232,Female,Marketing,Manager,2,5.6,30.0,Not Recorded,Mixed,29800,3922.39,33722.39,Fixed-term,2024-08-31,8233,True,False,MISSING_WORK_LOCATION
+E008287,Female,Marketing,Manager,4,6.0,35.0,Not Recorded,Mixed,50400,8018.15,58418.15,Part-time,2022-11-05,8288,True,False,MISSING_WORK_LOCATION
+E008346,Male,Operations,Lead,5,11.1,25.0,Not Recorded,Black,49000,1093.86,50093.86,Permanent,2025-07-04,8347,True,False,MISSING_WORK_LOCATION
+E008400,Not Recorded,Marketing,Senior Analyst,1,11.7,30.0,Leeds,Asian,23900,3710.22,27610.22,Fixed-term,2020-10-29,8401,False,True,MISSING_OR_INCONSISTENT_GENDER
+E008448,Not Recorded,HR,Analyst,2,10.5,20.0,Manchester,Mixed,37200,4557.99,41757.99,Fixed-term,2019-07-13,8449,False,True,MISSING_OR_INCONSISTENT_GENDER
+E008479,Female,Legal,Senior Analyst,1,10.7,40.0,Not Recorded,Prefer not to say,36300,449.38,36749.38,Permanent,2019-02-13,8480,True,False,MISSING_WORK_LOCATION
+E008703,Female,Legal,Lead,1,18.2,40.0,Not Recorded,Asian,32100,1311.48,33411.48,Fixed-term,2022-10-27,8704,True,False,MISSING_WORK_LOCATION
+E008833,Female,Sales,Lead,3,3.8,25.0,Not Recorded,White,53800,3839.27,57639.27,Part-time,2026-08-03,8834,True,False,MISSING_WORK_LOCATION
+E009052,Female,Product,Manager,2,4.5,37.5,Not Recorded,Black,34700,4419.61,39119.61,Part-time,2020-11-25,9053,True,False,MISSING_WORK_LOCATION
+E009078,Male,Data,Analyst,1,9.2,30.0,Not Recorded,White,30300,5033.05,35333.05,Fixed-term,2026-08-26,9079,True,False,MISSING_WORK_LOCATION
+E009191,Male,Product,Manager,2,18.8,30.0,Not Recorded,Mixed,44100,2687.1,46787.1,Fixed-term,2024-06-08,9192,True,False,MISSING_WORK_LOCATION
+E009337,Female,HR,Specialist,2,10.8,37.5,Not Recorded,Prefer not to say,34100,559.4,34659.4,Part-time,2024-11-09,9338,True,False,MISSING_WORK_LOCATION
+E009369,Not Recorded,Support,Manager,3,2.4,20.0,Manchester,Prefer not to say,38800,4348.77,43148.77,Part-time,2018-07-14,9370,False,True,MISSING_OR_INCONSISTENT_GENDER
+E009464,Male,Finance,Senior Analyst,2,9.7,37.5,Not Recorded,Asian,36300,5826.86,42126.86,Permanent,2023-09-04,9465,True,False,MISSING_WORK_LOCATION
+E010122,Not Recorded,HR,Manager,1,0.9,40.0,Leeds,Black,22200,1098.41,23298.41,Part-time,2018-11-20,10123,False,True,MISSING_OR_INCONSISTENT_GENDER
+E010186,Female,Support,Lead,3,16.2,30.0,Not Recorded,Other,39100,3544.92,42644.92,Permanent,2022-04-08,10187,True,False,MISSING_WORK_LOCATION
+E010403,Male,Product,Lead,3,10.8,40.0,Not Recorded,Prefer not to say,53400,319.91,53719.91,Part-time,2018-07-03,10404,True,False,MISSING_WORK_LOCATION
+E010596,Not Recorded,Product,Specialist,3,7.5,40.0,Manchester,Mixed,51300,4911.65,56211.65,Part-time,2023-03-21,10597,False,True,MISSING_OR_INCONSISTENT_GENDER
+E010606,Male,Finance,Manager,3,21.7,37.5,Not Recorded,Mixed,44600,4770.88,49370.88,Fixed-term,2021-05-09,10607,True,False,MISSING_WORK_LOCATION
+E010615,Not Recorded,Data,Specialist,2,10.9,40.0,London,Prefer not to say,31100,141.48,31241.48,Permanent,2023-02-01,10616,False,True,MISSING_OR_INCONSISTENT_GENDER
+E010897,Not Recorded,HR,Specialist,3,21.7,40.0,Bristol,Asian,36400,3464.1,39864.1,Fixed-term,2026-07-20,10898,False,True,MISSING_OR_INCONSISTENT_GENDER
+E010990,Female,Support,Senior Analyst,3,14.1,35.0,Not Recorded,Asian,37600,5933.95,43533.95,Fixed-term,2023-12-20,10991,True,False,MISSING_WORK_LOCATION
+E011074,Female,Legal,Specialist,2,3.5,25.0,Not Recorded,Black,42800,600.62,43400.62,Part-time,2021-03-23,11075,True,False,MISSING_WORK_LOCATION
+E011132,Female,Product,Senior Analyst,3,16.0,30.0,Not Recorded,White,53700,6845.31,60545.31,Permanent,2023-09-29,11133,True,False,MISSING_WORK_LOCATION
+E011181,Female,HR,Senior Analyst,2,11.0,25.0,Not Recorded,Mixed,30300,1335.05,31635.05,Part-time,2025-09-30,11182,True,False,MISSING_WORK_LOCATION
+E011209,Not Recorded,Sales,Lead,1,14.5,20.0,Remote,Asian,28500,1566.4,30066.4,Fixed-term,2018-08-21,11210,False,True,MISSING_OR_INCONSISTENT_GENDER
+E011346,Not Recorded,HR,Analyst,2,3.5,40.0,Manchester,Other,30500,219.23,30719.23,Part-time,2019-01-03,11347,False,True,MISSING_OR_INCONSISTENT_GENDER
+E011351,Not Recorded,Engineering,Manager,1,15.7,20.0,London,Black,23900,1021.83,24921.83,Fixed-term,2021-09-21,11352,False,True,MISSING_OR_INCONSISTENT_GENDER
+E011573,Female,Sales,Senior Analyst,5,5.5,25.0,Not Recorded,Prefer not to say,86000,13453.96,99453.96,Permanent,2020-05-02,11574,True,False,MISSING_WORK_LOCATION
+E011584,Not Recorded,Legal,Specialist,2,14.5,37.5,Remote,Other,52700,2599.1,55299.1,Permanent,2021-09-21,11585,False,True,MISSING_OR_INCONSISTENT_GENDER
+E011664,Not Recorded,HR,Senior Analyst,1,0.7,35.0,Bristol,Prefer not to say,28600,3067.69,31667.69,Fixed-term,2025-04-20,11665,False,True,MISSING_OR_INCONSISTENT_GENDER
+E011712,Male,Support,Senior Analyst,4,11.0,35.0,Not Recorded,Other,49900,3605.7,53505.7,Fixed-term,2023-10-19,11713,True,False,MISSING_WORK_LOCATION
+E011792,Not Recorded,Engineering,Manager,2,8.7,20.0,Manchester,Black,35600,4952.21,40552.21,Fixed-term,2019-10-29,11793,False,True,MISSING_OR_INCONSISTENT_GENDER
+E011923,Male,Data,Manager,1,8.5,20.0,Not Recorded,Black,24500,1287.49,25787.49,Fixed-term,2021-11-26,11924,True,False,MISSING_WORK_LOCATION
+E011937,Female,Finance,Senior Analyst,2,21.4,37.5,Not Recorded,Mixed,37600,956.52,38556.52,Permanent,2025-05-10,11938,True,False,MISSING_WORK_LOCATION
+E012030,Female,Product,Manager,5,16.7,37.5,Not Recorded,Other,75400,2914.33,78314.33,Permanent,2024-05-16,12031,True,False,MISSING_WORK_LOCATION
+E012104,Not Recorded,Engineering,Analyst,3,19.6,35.0,Remote,Asian,56300,1402.55,57702.55,Permanent,2021-07-05,12105,False,True,MISSING_OR_INCONSISTENT_GENDER
+E012340,Not Recorded,Data,Specialist,2,20.4,40.0,Leeds,Mixed,35500,628.23,36128.23,Part-time,2018-12-16,12341,False,True,MISSING_OR_INCONSISTENT_GENDER
+E012379,Not Recorded,HR,Senior Analyst,1,0.4,40.0,Leeds,Other,25500,1743.97,27243.97,Permanent,2024-10-07,12380,False,True,MISSING_OR_INCONSISTENT_GENDER
+E012445,Male,Data,Analyst,2,4.5,30.0,Not Recorded,Asian,43900,6993.32,50893.32,Part-time,2024-03-06,12446,True,False,MISSING_WORK_LOCATION
+E012998,Female,Marketing,Analyst,2,20.3,35.0,Not Recorded,Black,29100,3149.58,32249.58,Permanent,2025-03-07,12999,True,False,MISSING_WORK_LOCATION
+E013072,Not Recorded,Sales,Specialist,3,18.0,25.0,Manchester,White,40700,484.27,41184.27,Fixed-term,2018-05-11,13073,False,True,MISSING_OR_INCONSISTENT_GENDER
+E013127,Female,HR,Lead,3,15.8,35.0,Not Recorded,Other,48500,7105.77,55605.77,Fixed-term,2020-03-13,13128,True,False,MISSING_WORK_LOCATION
+E013264,Not Recorded,Engineering,Analyst,4,7.7,35.0,Bristol,Black,82700,890.09,83590.09,Permanent,2020-12-25,13265,False,True,MISSING_OR_INCONSISTENT_GENDER
+E013361,Not Recorded,Data,Manager,5,5.9,30.0,Remote,Black,75100,11034.39,86134.39,Fixed-term,2020-08-30,13362,False,True,MISSING_OR_INCONSISTENT_GENDER
+E013675,Male,Operations,Analyst,4,18.5,40.0,Not Recorded,White,46200,7753.93,53953.93,Part-time,2024-12-04,13676,True,False,MISSING_WORK_LOCATION
+E013812,Male,Sales,Manager,3,12.2,25.0,Not Recorded,Other,47400,5693.24,53093.24,Part-time,2022-01-09,13813,True,False,MISSING_WORK_LOCATION
+E013853,Not Recorded,Support,Specialist,1,0.3,30.0,Bristol,Prefer not to say,25700,3447.5,29147.5,Fixed-term,2026-01-12,13854,False,True,MISSING_OR_INCONSISTENT_GENDER
+E013894,Not Recorded,Product,Manager,3,19.8,30.0,Remote,Mixed,64900,9525.68,74425.68,Permanent,2019-05-08,13895,False,True,MISSING_OR_INCONSISTENT_GENDER
+E013933,Not Recorded,Legal,Analyst,2,21.5,25.0,Birmingham,Black,45700,7401.75,53101.75,Part-time,2023-08-07,13934,False,True,MISSING_OR_INCONSISTENT_GENDER
+E014070,Female,HR,Senior Analyst,5,11.0,20.0,Not Recorded,Asian,67200,9805.24,77005.24,Permanent,2021-11-08,14071,True,False,MISSING_WORK_LOCATION
+E014687,Male,Support,Senior Analyst,3,7.8,20.0,Not Recorded,Mixed,32300,4836.55,37136.55,Fixed-term,2025-02-16,14688,True,False,MISSING_WORK_LOCATION
+E014764,Male,Engineering,Analyst,3,2.8,35.0,Not Recorded,Black,46100,3693.57,49793.57,Permanent,2024-11-28,14765,True,False,MISSING_WORK_LOCATION
+E014934,Female,Legal,Specialist,3,18.7,25.0,Not Recorded,Other,56900,2826.62,59726.62,Part-time,2026-06-13,14935,True,False,MISSING_WORK_LOCATION
+E015189,Female,Sales,Manager,4,19.9,30.0,Not Recorded,Prefer not to say,49100,2738.44,51838.44,Fixed-term,2019-01-31,15190,True,False,MISSING_WORK_LOCATION
+E015300,Female,Product,Analyst,5,1.5,37.5,Not Recorded,Asian,97600,4575.8,102175.8,Part-time,2021-01-25,15301,True,False,MISSING_WORK_LOCATION
+E015347,Female,Data,Senior Analyst,1,18.8,20.0,Not Recorded,White,30100,4581.17,34681.17,Part-time,2019-06-11,15348,True,False,MISSING_WORK_LOCATION
+E015365,Female,Data,Manager,3,18.4,20.0,Not Recorded,White,53500,1309.44,54809.44,Fixed-term,2021-12-28,15366,True,False,MISSING_WORK_LOCATION
+E015480,Male,HR,Analyst,3,17.7,37.5,Not Recorded,Other,42200,4306.06,46506.06,Permanent,2022-06-08,15481,True,False,MISSING_WORK_LOCATION
+E015534,Female,HR,Specialist,2,4.8,35.0,Not Recorded,Prefer not to say,30200,1666.2,31866.2,Part-time,2018-04-11,15535,True,False,MISSING_WORK_LOCATION
+E015585,Male,Finance,Lead,1,15.2,25.0,Not Recorded,Black,26500,2153.81,28653.81,Part-time,2025-06-21,15586,True,False,MISSING_WORK_LOCATION
+E015699,Female,Marketing,Specialist,2,18.6,35.0,Not Recorded,Mixed,25400,1394.33,26794.33,Part-time,2020-03-15,15700,True,False,MISSING_WORK_LOCATION
+E015899,Female,Engineering,Analyst,4,4.8,37.5,Not Recorded,Mixed,69900,11098.44,80998.44,Permanent,2023-10-28,15900,True,False,MISSING_WORK_LOCATION
+E015960,Not Recorded,Operations,Specialist,5,3.5,35.0,Manchester,White,59000,6264.07,65264.07,Permanent,2025-06-12,15961,False,True,MISSING_OR_INCONSISTENT_GENDER
+E016067,Not Recorded,Support,Specialist,2,0.9,20.0,Manchester,Asian,19500,366.14,19866.14,Permanent,2023-07-23,16068,False,True,MISSING_OR_INCONSISTENT_GENDER
+E016162,Female,Product,Lead,4,14.5,25.0,Not Recorded,Other,67500,3542.63,71042.63,Fixed-term,2020-09-28,16163,True,False,MISSING_WORK_LOCATION
+E016296,Male,Sales,Manager,3,1.7,20.0,Not Recorded,Prefer not to say,49300,352.11,49652.11,Permanent,2026-09-24,16297,True,False,MISSING_WORK_LOCATION
+E016564,Female,Finance,Specialist,3,0.9,30.0,Not Recorded,Prefer not to say,47200,2465.39,49665.39,Part-time,2025-12-24,16565,True,False,MISSING_WORK_LOCATION
+E016754,Female,HR,Specialist,2,15.2,20.0,Not Recorded,White,31000,3668.16,34668.16,Permanent,2023-12-19,16755,True,False,MISSING_WORK_LOCATION
+E016872,Male,Sales,Lead,1,14.5,35.0,Not Recorded,Black,21500,2182.2,23682.2,Fixed-term,2025-03-06,16873,True,False,MISSING_WORK_LOCATION
+E016886,Prefer not to say,HR,Manager,2,1.2,25.0,Not Recorded,Other,33400,26.25,33426.25,Permanent,2025-09-13,16887,True,False,MISSING_WORK_LOCATION
+E017008,Male,Legal,Manager,1,12.3,40.0,Not Recorded,Black,38100,4016.49,42116.49,Permanent,2023-12-27,17009,True,False,MISSING_WORK_LOCATION
+E017093,Female,Marketing,Analyst,3,21.0,20.0,Not Recorded,Other,39000,269.56,39269.56,Permanent,2019-03-14,17094,True,False,MISSING_WORK_LOCATION
+E017375,Male,Sales,Specialist,2,5.7,37.5,Not Recorded,Other,32000,3596.35,35596.35,Fixed-term,2021-02-07,17376,True,False,MISSING_WORK_LOCATION
+E017386,Not Recorded,Legal,Specialist,3,14.6,35.0,Manchester,Asian,58600,2604.0,61204.0,Permanent,2022-04-14,17387,False,True,MISSING_OR_INCONSISTENT_GENDER
+E017670,Not Recorded,Data,Analyst,3,2.4,30.0,Birmingham,Other,46700,7680.08,54380.08,Fixed-term,2026-02-13,17671,False,True,MISSING_OR_INCONSISTENT_GENDER
+E017781,Not Recorded,Legal,Analyst,5,8.0,20.0,Glasgow,Other,95600,3841.49,99441.49,Fixed-term,2026-08-08,17782,False,True,MISSING_OR_INCONSISTENT_GENDER
+E017791,Not Recorded,Data,Manager,2,11.3,37.5,Glasgow,Black,45700,1168.2,46868.2,Fixed-term,2020-01-29,17792,False,True,MISSING_OR_INCONSISTENT_GENDER
+E017839,Not Recorded,Marketing,Specialist,3,16.9,25.0,Bristol,Mixed,35100,3401.2,38501.2,Permanent,2019-03-17,17840,False,True,MISSING_OR_INCONSISTENT_GENDER
+E018085,Female,Engineering,Lead,3,7.0,35.0,Not Recorded,White,47900,1472.95,49372.95,Fixed-term,2021-01-10,18086,True,False,MISSING_WORK_LOCATION
+E018106,Female,Support,Senior Analyst,2,7.3,37.5,Not Recorded,Prefer not to say,23300,1561.51,24861.51,Fixed-term,2018-04-07,18107,True,False,MISSING_WORK_LOCATION
+E018196,Not Recorded,Data,Analyst,1,20.8,25.0,Manchester,Other,25600,2287.37,27887.37,Fixed-term,2019-09-26,18197,False,True,MISSING_OR_INCONSISTENT_GENDER
+E018315,Not Recorded,Operations,Analyst,5,5.2,40.0,Birmingham,Asian,57000,1584.37,58584.37,Part-time,2025-06-24,18316,False,True,MISSING_OR_INCONSISTENT_GENDER
+E018808,Not Recorded,Data,Specialist,3,0.1,30.0,Birmingham,Mixed,47800,5764.09,53564.09,Fixed-term,2018-06-27,18809,False,True,MISSING_OR_INCONSISTENT_GENDER
+E019259,Female,Product,Lead,4,6.1,37.5,Not Recorded,Mixed,62500,1614.87,64114.87,Fixed-term,2024-02-19,19260,True,False,MISSING_WORK_LOCATION
+E019333,Female,Marketing,Analyst,2,1.6,20.0,Not Recorded,Prefer not to say,37000,4362.75,41362.75,Permanent,2018-12-19,19334,True,False,MISSING_WORK_LOCATION
+E019428,Female,Sales,Manager,2,3.2,30.0,Not Recorded,Mixed,40400,3209.44,43609.44,Permanent,2019-10-17,19429,True,False,MISSING_WORK_LOCATION
+E019532,Male,Marketing,Senior Analyst,2,9.7,20.0,Not Recorded,Other,29900,2300.88,32200.88,Permanent,2019-03-17,19533,True,False,MISSING_WORK_LOCATION
+E019539,Not Recorded,Data,Manager,3,1.7,35.0,London,Other,56700,3199.72,59899.72,Permanent,2022-09-20,19540,False,True,MISSING_OR_INCONSISTENT_GENDER
+E019746,Female,Product,Lead,4,14.7,30.0,Not Recorded,Mixed,73000,1512.73,74512.73,Part-time,2023-06-20,19747,True,False,MISSING_WORK_LOCATION
+E019784,Male,Engineering,Lead,3,16.1,40.0,Not Recorded,Black,50100,7033.24,57133.24,Permanent,2022-01-23,19785,True,False,MISSING_WORK_LOCATION
+E019888,Not Recorded,Product,Analyst,1,11.8,30.0,Manchester,Asian,30800,450.84,31250.84,Fixed-term,2025-01-25,19889,False,True,MISSING_OR_INCONSISTENT_GENDER
+E019889,Female,Sales,Lead,2,13.7,37.5,Not Recorded,Other,41300,6913.43,48213.43,Part-time,2018-05-26,19890,True,False,MISSING_WORK_LOCATION
+E019966,Not Recorded,Marketing,Manager,3,5.3,37.5,Bristol,White,50000,8357.0,58357.0,Permanent,2025-09-11,19967,False,True,MISSING_OR_INCONSISTENT_GENDER
+E020090,Female,Data,Analyst,2,18.4,20.0,Not Recorded,Prefer not to say,42300,2033.76,44333.76,Part-time,2023-09-15,20091,True,False,MISSING_WORK_LOCATION
+E020277,Female,Operations,Analyst,2,8.8,37.5,Not Recorded,White,30400,1970.97,32370.97,Permanent,2026-03-18,20278,True,False,MISSING_WORK_LOCATION
+E020289,Male,Legal,Senior Analyst,1,21.9,37.5,Not Recorded,White,34000,3464.74,37464.74,Permanent,2021-03-01,20290,True,False,MISSING_WORK_LOCATION
+E020380,Male,Data,Lead,5,15.7,37.5,Not Recorded,Mixed,60000,5948.02,65948.02,Part-time,2021-03-14,20381,True,False,MISSING_WORK_LOCATION
+E020488,Not Recorded,Support,Analyst,1,14.7,30.0,Birmingham,Prefer not to say,23400,3173.67,26573.67,Fixed-term,2025-03-10,20489,False,True,MISSING_OR_INCONSISTENT_GENDER
+E020597,Not Recorded,Operations,Analyst,4,7.5,20.0,Bristol,Black,48100,3548.46,51648.46,Permanent,2022-09-06,20598,False,True,MISSING_OR_INCONSISTENT_GENDER
+E020690,Not Recorded,HR,Senior Analyst,4,16.2,30.0,Remote,White,44900,4212.03,49112.03,Permanent,2021-01-27,20691,False,True,MISSING_OR_INCONSISTENT_GENDER
+E020932,Not Recorded,Operations,Manager,3,13.1,40.0,Birmingham,White,39900,4893.84,44793.84,Part-time,2020-03-15,20933,False,True,MISSING_OR_INCONSISTENT_GENDER
+E020957,Female,Support,Lead,1,19.9,25.0,Not Recorded,Asian,24700,3606.99,28306.99,Fixed-term,2021-10-30,20958,True,False,MISSING_WORK_LOCATION
+E020969,Male,Engineering,Specialist,2,19.7,25.0,Not Recorded,Asian,28800,4420.12,33220.12,Part-time,2026-09-06,20970,True,False,MISSING_WORK_LOCATION
+E021121,Female,Legal,Analyst,3,15.7,37.5,Not Recorded,Prefer not to say,59600,8211.4,67811.4,Permanent,2020-12-12,21122,True,False,MISSING_WORK_LOCATION
+E021309,Not Recorded,HR,Specialist,3,13.1,20.0,Glasgow,Other,30900,3057.62,33957.62,Permanent,2023-04-06,21310,False,True,MISSING_OR_INCONSISTENT_GENDER
+E021386,Not Recorded,Data,Analyst,3,12.1,35.0,Birmingham,Other,46900,4150.15,51050.15,Permanent,2025-07-07,21387,False,True,MISSING_OR_INCONSISTENT_GENDER
+E021491,Female,Finance,Analyst,2,5.8,40.0,Not Recorded,Mixed,41100,2964.94,44064.94,Fixed-term,2020-07-18,21492,True,False,MISSING_WORK_LOCATION
+E021649,Not Recorded,HR,Manager,5,21.5,20.0,Birmingham,White,60000,8345.47,68345.47,Fixed-term,2026-02-14,21650,False,True,MISSING_OR_INCONSISTENT_GENDER
+E021656,Female,Legal,Senior Analyst,4,3.3,20.0,Not Recorded,Other,59300,2894.43,62194.43,Permanent,2021-04-08,21657,True,False,MISSING_WORK_LOCATION
+E021809,Not Recorded,HR,Analyst,1,20.6,35.0,Remote,Other,27100,1113.67,28213.67,Permanent,2025-09-02,21810,False,True,MISSING_OR_INCONSISTENT_GENDER
+E021850,Not Recorded,Marketing,Senior Analyst,5,19.8,35.0,Remote,Other,72000,6898.33,78898.33,Permanent,2018-09-28,21851,False,True,MISSING_OR_INCONSISTENT_GENDER
+E021915,Not Recorded,Product,Specialist,4,15.4,30.0,Bristol,Asian,56000,4234.32,60234.32,Part-time,2018-02-19,21916,False,True,MISSING_OR_INCONSISTENT_GENDER
+E022038,Not Recorded,Product,Lead,1,9.3,37.5,Manchester,Asian,30100,2475.26,32575.26,Fixed-term,2021-05-09,22039,False,True,MISSING_OR_INCONSISTENT_GENDER
+E022044,Male,HR,Lead,5,18.2,20.0,Not Recorded,White,73900,12240.41,86140.41,Part-time,2022-08-05,22045,True,False,MISSING_WORK_LOCATION
+E022053,Female,Product,Specialist,5,1.0,30.0,Not Recorded,Black,109000,15761.31,124761.31,Fixed-term,2025-11-09,22054,True,False,MISSING_WORK_LOCATION
+E022153,Female,Sales,Analyst,2,17.8,20.0,Not Recorded,Other,33300,5625.45,38925.45,Fixed-term,2025-10-22,22154,True,False,MISSING_WORK_LOCATION
+E022159,Female,Engineering,Analyst,1,2.7,40.0,Not Recorded,Black,32100,3907.43,36007.43,Fixed-term,2019-11-29,22160,True,False,MISSING_WORK_LOCATION
+E022209,Female,Data,Specialist,2,8.3,25.0,Not Recorded,Other,38600,1551.92,40151.92,Fixed-term,2019-11-03,22210,True,False,MISSING_WORK_LOCATION
+E022398,Male,Finance,Specialist,1,17.8,40.0,Not Recorded,White,18000,898.84,18898.84,Part-time,2018-04-16,22399,True,False,MISSING_WORK_LOCATION
+E022584,Female,Operations,Lead,3,0.1,40.0,Not Recorded,Other,43900,2650.92,46550.92,Part-time,2024-11-22,22585,True,False,MISSING_WORK_LOCATION
+E022592,Male,Support,Manager,2,14.2,20.0,Not Recorded,Mixed,25000,4071.07,29071.07,Fixed-term,2021-10-05,22593,True,False,MISSING_WORK_LOCATION
+E022611,Not Recorded,Data,Manager,1,12.3,40.0,Bristol,Mixed,25000,478.15,25478.15,Fixed-term,2024-11-21,22612,False,True,MISSING_OR_INCONSISTENT_GENDER
+E022636,Female,Finance,Manager,4,3.7,37.5,Not Recorded,Other,58200,7867.8,66067.8,Fixed-term,2020-12-20,22637,True,False,MISSING_WORK_LOCATION
+E022685,Prefer not to say,Marketing,Lead,2,16.2,37.5,Not Recorded,White,35800,2843.16,38643.16,Fixed-term,2021-02-18,22686,True,False,MISSING_WORK_LOCATION
+E022922,Male,Marketing,Senior Analyst,4,7.0,25.0,Not Recorded,Asian,51300,8087.46,59387.46,Fixed-term,2019-11-13,22923,True,False,MISSING_WORK_LOCATION
+E022943,Not Recorded,HR,Analyst,4,14.2,25.0,Bristol,Prefer not to say,56100,1676.17,57776.17,Fixed-term,2025-12-02,22944,False,True,MISSING_OR_INCONSISTENT_GENDER
+E023084,Not Recorded,Product,Lead,1,9.5,25.0,London,Asian,27100,3661.38,30761.38,Permanent,2024-12-09,23085,False,True,MISSING_OR_INCONSISTENT_GENDER
+E023205,Not Recorded,Support,Lead,4,16.4,30.0,Bristol,Black,42600,2124.48,44724.48,Permanent,2021-05-11,23206,False,True,MISSING_OR_INCONSISTENT_GENDER
+E023234,Male,Operations,Lead,1,2.8,25.0,Not Recorded,Asian,21700,469.38,22169.38,Part-time,2022-08-05,23235,True,False,MISSING_WORK_LOCATION
+E023293,Not Recorded,Engineering,Lead,3,15.9,25.0,Bristol,Black,46300,1542.81,47842.81,Permanent,2019-10-28,23294,False,True,MISSING_OR_INCONSISTENT_GENDER
+E023328,Not Recorded,Finance,Lead,3,18.5,20.0,London,Asian,61800,9291.4,71091.4,Part-time,2022-05-22,23329,False,True,MISSING_OR_INCONSISTENT_GENDER
+E023442,Female,Legal,Manager,3,5.1,30.0,Not Recorded,Black,44900,5611.13,50511.13,Part-time,2021-01-15,23443,True,False,MISSING_WORK_LOCATION
+E023477,Female,Sales,Analyst,1,10.6,25.0,Not Recorded,Other,24300,3176.28,27476.28,Part-time,2025-05-24,23478,True,False,MISSING_WORK_LOCATION
+E023483,Male,Finance,Lead,1,9.3,35.0,Not Recorded,Prefer not to say,30000,1767.96,31767.96,Part-time,2018-11-22,23484,True,False,MISSING_WORK_LOCATION
+E023608,Female,Data,Analyst,1,6.8,25.0,Not Recorded,White,22900,262.59,23162.59,Fixed-term,2021-02-12,23609,True,False,MISSING_WORK_LOCATION
+E023775,Male,Support,Senior Analyst,2,13.1,40.0,Not Recorded,White,29200,1125.47,30325.47,Part-time,2025-12-27,23776,True,False,MISSING_WORK_LOCATION
+E024010,Female,Product,Analyst,1,4.5,35.0,Not Recorded,Other,28600,1261.29,29861.29,Permanent,2024-10-01,24011,True,False,MISSING_WORK_LOCATION
+E024175,Not Recorded,HR,Senior Analyst,3,4.0,40.0,Remote,White,33700,926.76,34626.76,Fixed-term,2018-04-03,24176,False,True,MISSING_OR_INCONSISTENT_GENDER
+E024181,Not Recorded,Operations,Manager,1,8.8,25.0,Glasgow,Asian,19100,2761.61,21861.61,Permanent,2019-02-09,24182,False,True,MISSING_OR_INCONSISTENT_GENDER
+E024282,Female,Support,Analyst,5,3.2,25.0,Not Recorded,White,51500,3447.39,54947.39,Part-time,2025-07-24,24283,True,False,MISSING_WORK_LOCATION
+E024332,Female,Support,Specialist,3,5.8,25.0,Not Recorded,Asian,37600,4150.41,41750.41,Permanent,2019-11-26,24333,True,False,MISSING_WORK_LOCATION
+E024350,Not Recorded,Engineering,Lead,3,8.6,37.5,London,Mixed,55200,3898.92,59098.92,Fixed-term,2022-04-05,24351,False,True,MISSING_OR_INCONSISTENT_GENDER
+E024357,Not Recorded,Operations,Manager,2,18.4,40.0,London,Black,30500,3976.28,34476.28,Part-time,2026-07-09,24358,False,True,MISSING_OR_INCONSISTENT_GENDER
+E024361,Female,Support,Manager,3,2.4,30.0,Not Recorded,Other,38000,4117.02,42117.02,Part-time,2019-11-01,24362,True,False,MISSING_WORK_LOCATION
+E024374,Male,Engineering,Analyst,2,16.4,30.0,Not Recorded,Other,51900,4651.6,56551.6,Part-time,2023-09-22,24375,True,False,MISSING_WORK_LOCATION
+E024397,Not Recorded,Marketing,Manager,1,18.5,37.5,Glasgow,White,27600,827.98,28427.98,Part-time,2026-01-30,24398,False,True,MISSING_OR_INCONSISTENT_GENDER
+E024400,Male,Engineering,Specialist,1,7.4,20.0,Not Recorded,Prefer not to say,26800,3080.31,29880.31,Permanent,2021-10-08,24401,True,False,MISSING_WORK_LOCATION
+E024406,Not Recorded,Engineering,Lead,2,10.8,35.0,Remote,White,28600,96.49,28696.49,Fixed-term,2018-08-28,24407,False,True,MISSING_OR_INCONSISTENT_GENDER
+E024444,Not Recorded,Data,Specialist,5,18.7,37.5,London,Mixed,88700,1636.74,90336.74,Part-time,2018-03-31,24445,False,True,MISSING_OR_INCONSISTENT_GENDER
+E024478,Male,Legal,Lead,2,15.2,20.0,Not Recorded,Asian,31500,4435.48,35935.48,Part-time,2021-06-07,24479,True,False,MISSING_WORK_LOCATION
+E024960,Not Recorded,Product,Senior Analyst,2,15.7,40.0,Leeds,White,46200,5638.3,51838.3,Permanent,2025-05-10,24961,False,True,MISSING_OR_INCONSISTENT_GENDER
+E025166,Male,Support,Senior Analyst,5,7.6,30.0,Not Recorded,Asian,59000,4326.25,63326.25,Permanent,2025-08-07,25167,True,False,MISSING_WORK_LOCATION
+E025213,Not Recorded,Legal,Senior Analyst,2,13.2,35.0,Manchester,Prefer not to say,43200,4806.15,48006.15,Permanent,2022-05-12,25214,False,True,MISSING_OR_INCONSISTENT_GENDER
+E025409,Female,Legal,Senior Analyst,1,11.1,35.0,Not Recorded,Black,39700,3540.06,43240.06,Part-time,2018-07-18,25410,True,False,MISSING_WORK_LOCATION
+E025651,Female,HR,Lead,2,19.7,30.0,Not Recorded,White,32300,2157.61,34457.61,Permanent,2019-07-28,25652,True,False,MISSING_WORK_LOCATION
+E025692,Not Recorded,Marketing,Analyst,2,18.6,25.0,Remote,Prefer not to say,33800,2531.38,36331.38,Permanent,2018-12-31,25693,False,True,MISSING_OR_INCONSISTENT_GENDER
+E025720,Not Recorded,Support,Specialist,4,4.9,35.0,Remote,Black,35200,3236.11,38436.11,Permanent,2018-08-23,25721,False,True,MISSING_OR_INCONSISTENT_GENDER
+E025743,Male,Marketing,Specialist,5,5.6,35.0,Not Recorded,White,65900,6881.26,72781.26,Permanent,2026-08-30,25744,True,False,MISSING_WORK_LOCATION
+E026178,Not Recorded,Product,Senior Analyst,1,7.5,25.0,Glasgow,Black,30700,842.35,31542.35,Fixed-term,2025-02-02,26179,False,True,MISSING_OR_INCONSISTENT_GENDER
+E026224,Not Recorded,Legal,Lead,1,5.7,25.0,London,Black,38000,2525.39,40525.39,Part-time,2019-08-04,26225,False,True,MISSING_OR_INCONSISTENT_GENDER
+E026331,Not Recorded,HR,Specialist,3,14.9,30.0,Glasgow,Mixed,34900,4085.97,38985.97,Permanent,2018-07-12,26332,False,True,MISSING_OR_INCONSISTENT_GENDER
+E026579,Female,Support,Senior Analyst,2,15.9,20.0,Not Recorded,Asian,26000,3985.69,29985.69,Permanent,2025-03-19,26580,True,False,MISSING_WORK_LOCATION
+E026822,Not Recorded,Finance,Manager,4,12.4,20.0,Remote,Prefer not to say,53300,5332.6,58632.6,Fixed-term,2020-05-14,26823,False,True,MISSING_OR_INCONSISTENT_GENDER
+E026862,Male,Operations,Analyst,4,18.6,35.0,Not Recorded,Other,43000,6109.75,49109.75,Part-time,2025-04-25,26863,True,False,MISSING_WORK_LOCATION
+E026891,Not Recorded,Operations,Analyst,2,16.9,40.0,Remote,Mixed,26000,521.49,26521.49,Fixed-term,2023-06-11,26892,False,True,MISSING_OR_INCONSISTENT_GENDER
+E026974,Not Recorded,Engineering,Lead,1,12.9,35.0,Glasgow,Mixed,30500,4122.8,34622.8,Part-time,2024-06-05,26975,False,True,MISSING_OR_INCONSISTENT_GENDER
+E027239,Female,Product,Specialist,2,7.8,20.0,Not Recorded,Black,41000,4516.52,45516.52,Permanent,2021-06-19,27240,True,False,MISSING_WORK_LOCATION
+E027365,Female,HR,Specialist,2,20.1,25.0,Not Recorded,Other,40900,3180.25,44080.25,Permanent,2018-07-12,27366,True,False,MISSING_WORK_LOCATION
+E027576,Not Recorded,Support,Lead,3,2.3,37.5,Leeds,Asian,38200,695.37,38895.37,Permanent,2023-03-13,27577,False,True,MISSING_OR_INCONSISTENT_GENDER
+E027597,Male,Engineering,Analyst,3,8.5,37.5,Not Recorded,Mixed,63400,1666.91,65066.91,Permanent,2020-05-14,27598,True,False,MISSING_WORK_LOCATION
+E027634,Not Recorded,Legal,Specialist,1,1.8,25.0,Bristol,White,32100,3115.91,35215.91,Permanent,2025-06-23,27635,False,True,MISSING_OR_INCONSISTENT_GENDER
+E028111,Non-binary,Data,Manager,2,18.9,20.0,Not Recorded,White,36600,5743.9,42343.9,Fixed-term,2024-10-09,28112,True,False,MISSING_WORK_LOCATION
+E028251,Male,Sales,Analyst,2,20.9,35.0,Not Recorded,Other,29400,745.02,30145.02,Fixed-term,2025-07-14,28252,True,False,MISSING_WORK_LOCATION
+E028286,Male,Data,Senior Analyst,3,15.0,35.0,Not Recorded,Asian,54300,1362.32,55662.32,Part-time,2024-02-03,28287,True,False,MISSING_WORK_LOCATION
+E028355,Female,Sales,Specialist,2,21.4,30.0,Not Recorded,White,30500,1187.42,31687.42,Part-time,2025-06-19,28356,True,False,MISSING_WORK_LOCATION
+E028684,Female,Sales,Manager,4,7.2,40.0,Not Recorded,Other,47800,2163.65,49963.65,Permanent,2022-10-21,28685,True,False,MISSING_WORK_LOCATION
+E028685,Male,Finance,Specialist,3,10.4,37.5,Not Recorded,Asian,52700,8735.07,61435.07,Part-time,2025-06-22,28686,True,False,MISSING_WORK_LOCATION
+E028808,Not Recorded,Marketing,Lead,1,20.5,37.5,Birmingham,Prefer not to say,26300,2381.74,28681.74,Part-time,2022-12-16,28809,False,True,MISSING_OR_INCONSISTENT_GENDER
+E028810,Not Recorded,Engineering,Manager,1,16.5,40.0,Glasgow,Other,26900,3962.43,30862.43,Permanent,2026-06-24,28811,False,True,MISSING_OR_INCONSISTENT_GENDER
+E028867,Not Recorded,HR,Analyst,4,3.5,25.0,Remote,Black,51400,6917.97,58317.97,Fixed-term,2025-11-23,28868,False,True,MISSING_OR_INCONSISTENT_GENDER
+E028920,Male,Data,Analyst,2,2.0,35.0,Not Recorded,Prefer not to say,45000,5220.34,50220.34,Permanent,2023-06-01,28921,True,False,MISSING_WORK_LOCATION
+E029006,Male,Support,Senior Analyst,1,2.9,35.0,Not Recorded,Prefer not to say,21200,2347.69,23547.69,Permanent,2025-10-26,29007,True,False,MISSING_WORK_LOCATION
+E029164,Male,Operations,Lead,2,13.3,37.5,Not Recorded,Black,29700,3638.8,33338.8,Permanent,2026-07-02,29165,True,False,MISSING_WORK_LOCATION
+E029168,Male,Finance,Specialist,3,10.2,30.0,Not Recorded,Asian,52600,7030.77,59630.77,Fixed-term,2018-03-31,29169,True,False,MISSING_WORK_LOCATION
+E029916,Female,Finance,Senior Analyst,2,11.0,25.0,Not Recorded,Prefer not to say,37200,2039.03,39239.03,Permanent,2022-01-26,29917,True,False,MISSING_WORK_LOCATION
+E030006,Male,Legal,Analyst,2,15.8,20.0,Not Recorded,Mixed,48000,1837.42,49837.42,Fixed-term,2023-06-20,30007,True,False,MISSING_WORK_LOCATION
+E030013,Not Recorded,Support,Specialist,3,4.6,30.0,London,White,42400,429.72,42829.72,Permanent,2024-03-18,30014,False,True,MISSING_OR_INCONSISTENT_GENDER
+E030076,Not Recorded,Support,Specialist,2,5.8,30.0,Glasgow,Other,29100,2098.68,31198.68,Permanent,2025-02-13,30077,False,True,MISSING_OR_INCONSISTENT_GENDER
+E030451,Female,Data,Senior Analyst,4,19.2,37.5,Not Recorded,Other,69800,2571.19,72371.19,Permanent,2020-05-05,30452,True,False,MISSING_WORK_LOCATION
+E030475,Not Recorded,Engineering,Manager,3,13.0,40.0,London,White,59200,2854.57,62054.57,Fixed-term,2019-03-28,30476,False,True,MISSING_OR_INCONSISTENT_GENDER
+E030674,Not Recorded,Support,Manager,1,12.2,20.0,Leeds,Asian,21700,2591.51,24291.51,Part-time,2024-02-21,30675,False,True,MISSING_OR_INCONSISTENT_GENDER
+E030760,Female,Marketing,Manager,3,19.9,30.0,Not Recorded,Other,52600,3439.34,56039.34,Fixed-term,2025-12-28,30761,True,False,MISSING_WORK_LOCATION
+E030874,Female,Legal,Specialist,1,0.3,40.0,Not Recorded,Black,33400,1375.58,34775.58,Fixed-term,2024-09-23,30875,True,False,MISSING_WORK_LOCATION
+E031409,Male,Product,Senior Analyst,2,11.2,40.0,Not Recorded,Prefer not to say,40300,4440.81,44740.81,Fixed-term,2019-09-09,31410,True,False,MISSING_WORK_LOCATION
+E031411,Male,Data,Analyst,1,4.2,25.0,Not Recorded,Black,33300,110.29,33410.29,Permanent,2020-07-19,31412,True,False,MISSING_WORK_LOCATION
+E031517,Not Recorded,Engineering,Manager,3,20.2,37.5,Leeds,Mixed,55300,4205.4,59505.4,Part-time,2022-01-13,31518,False,True,MISSING_OR_INCONSISTENT_GENDER
+E031581,Male,Data,Analyst,3,10.0,35.0,Not Recorded,Asian,40000,1806.99,41806.99,Permanent,2022-12-02,31582,True,False,MISSING_WORK_LOCATION
+E031622,Male,Finance,Senior Analyst,2,9.2,40.0,Not Recorded,Other,26800,1211.4,28011.4,Permanent,2025-03-14,31623,True,False,MISSING_WORK_LOCATION
+E031673,Not Recorded,Product,Lead,3,20.3,25.0,Birmingham,Other,55500,6372.06,61872.06,Fixed-term,2024-08-25,31674,False,True,MISSING_OR_INCONSISTENT_GENDER
+E031799,Male,Marketing,Lead,2,7.4,35.0,Not Recorded,Other,31200,3605.49,34805.49,Permanent,2019-03-07,31800,True,False,MISSING_WORK_LOCATION
+E031832,Not Recorded,HR,Senior Analyst,1,8.9,37.5,Bristol,Mixed,27400,486.83,27886.83,Part-time,2024-01-01,31833,False,True,MISSING_OR_INCONSISTENT_GENDER
+E031878,Female,Finance,Lead,1,18.5,20.0,Not Recorded,Mixed,29600,1270.92,30870.92,Fixed-term,2018-07-28,31879,True,False,MISSING_WORK_LOCATION
+E031926,Male,Engineering,Analyst,4,13.9,35.0,Not Recorded,Prefer not to say,62100,2366.72,64466.72,Permanent,2018-04-30,31927,True,False,MISSING_WORK_LOCATION
+E032007,Male,Data,Specialist,3,3.0,25.0,Not Recorded,Other,60900,5364.91,66264.91,Permanent,2022-02-23,32008,True,False,MISSING_WORK_LOCATION
+E032490,Male,Data,Manager,3,13.7,37.5,Not Recorded,Other,56500,144.07,56644.07,Fixed-term,2021-01-04,32491,True,False,MISSING_WORK_LOCATION
+E032801,Female,Legal,Senior Analyst,4,7.6,35.0,Not Recorded,Prefer not to say,90900,9981.71,100881.71,Permanent,2021-01-01,32802,True,False,MISSING_WORK_LOCATION
+E033113,Female,Engineering,Specialist,1,7.9,37.5,Not Recorded,Mixed,38600,3849.43,42449.43,Fixed-term,2019-10-24,33114,True,False,MISSING_WORK_LOCATION
+E033290,Male,Product,Manager,2,0.7,40.0,Not Recorded,Black,47500,4981.57,52481.57,Fixed-term,2018-04-14,33291,True,False,MISSING_WORK_LOCATION
+E033360,Female,Product,Manager,2,6.8,35.0,Not Recorded,Prefer not to say,33800,4968.83,38768.83,Part-time,2023-07-21,33361,True,False,MISSING_WORK_LOCATION
+E033443,Female,Legal,Senior Analyst,5,1.1,35.0,Not Recorded,White,106900,16371.68,123271.68,Permanent,2026-03-22,33444,True,False,MISSING_WORK_LOCATION
+E033463,Female,Finance,Senior Analyst,3,5.2,25.0,Not Recorded,Other,58900,532.36,59432.36,Fixed-term,2019-07-16,33464,True,False,MISSING_WORK_LOCATION
+E033528,Male,Legal,Senior Analyst,2,2.7,40.0,Not Recorded,Asian,43800,2958.34,46758.34,Fixed-term,2018-07-22,33529,True,False,MISSING_WORK_LOCATION
+E033596,Not Recorded,HR,Lead,4,1.4,37.5,Leeds,Black,63100,4661.43,67761.43,Fixed-term,2021-09-14,33597,False,True,MISSING_OR_INCONSISTENT_GENDER
+E033630,Not Recorded,Operations,Senior Analyst,3,1.8,20.0,Glasgow,Prefer not to say,36800,4753.6,41553.6,Permanent,2018-07-20,33631,False,True,MISSING_OR_INCONSISTENT_GENDER
+E033810,Not Recorded,Data,Senior Analyst,2,4.8,37.5,Manchester,Black,32300,4038.53,36338.53,Permanent,2024-02-07,33811,False,True,MISSING_OR_INCONSISTENT_GENDER
+E033957,Not Recorded,Legal,Lead,2,6.9,35.0,Remote,Asian,36400,4303.91,40703.91,Permanent,2020-10-02,33958,False,True,MISSING_OR_INCONSISTENT_GENDER
+E034012,Not Recorded,HR,Analyst,4,18.1,20.0,Birmingham,Mixed,53300,7993.38,61293.38,Permanent,2018-11-12,34013,False,True,MISSING_OR_INCONSISTENT_GENDER
+E034107,Female,Engineering,Senior Analyst,1,18.2,20.0,Not Recorded,Asian,29900,4973.18,34873.18,Part-time,2023-04-03,34108,True,False,MISSING_WORK_LOCATION
+E034222,Male,Operations,Analyst,2,12.2,20.0,Not Recorded,Mixed,36800,1989.43,38789.43,Part-time,2024-08-22,34223,True,False,MISSING_WORK_LOCATION
+E034224,Female,HR,Analyst,4,6.6,20.0,Not Recorded,Mixed,48900,6307.98,55207.98,Fixed-term,2025-02-19,34225,True,False,MISSING_WORK_LOCATION
+E034924,Male,Operations,Manager,3,21.1,37.5,Not Recorded,Black,38300,4124.8,42424.8,Part-time,2020-05-15,34925,True,False,MISSING_WORK_LOCATION
+E035476,Female,Marketing,Analyst,3,16.3,37.5,Not Recorded,Mixed,34300,1754.4,36054.4,Part-time,2019-04-08,35477,True,False,MISSING_WORK_LOCATION
+E035574,Male,Operations,Lead,1,3.3,40.0,Not Recorded,Asian,21000,555.08,21555.08,Fixed-term,2022-01-19,35575,True,False,MISSING_WORK_LOCATION
+E035758,Not Recorded,Finance,Manager,2,8.9,37.5,Leeds,Other,31400,3149.08,34549.08,Part-time,2024-10-18,35759,False,True,MISSING_OR_INCONSISTENT_GENDER
+E035831,Not Recorded,Support,Senior Analyst,2,1.0,37.5,Leeds,Other,23400,2464.67,25864.67,Part-time,2020-10-19,35832,False,True,MISSING_OR_INCONSISTENT_GENDER
+E036125,Male,Finance,Specialist,3,6.7,35.0,Not Recorded,Prefer not to say,36600,2979.87,39579.87,Part-time,2023-04-06,36126,True,False,MISSING_WORK_LOCATION
+E036215,Male,HR,Analyst,3,20.5,25.0,Not Recorded,Black,51300,3238.04,54538.04,Fixed-term,2026-01-18,36216,True,False,MISSING_WORK_LOCATION
+E036231,Male,Data,Specialist,4,3.6,37.5,Not Recorded,White,61900,8924.4,70824.4,Permanent,2021-04-08,36232,True,False,MISSING_WORK_LOCATION
+E036350,Female,Marketing,Senior Analyst,2,6.3,35.0,Not Recorded,Prefer not to say,24700,2926.17,27626.17,Part-time,2024-09-23,36351,True,False,MISSING_WORK_LOCATION
+E036922,Not Recorded,Data,Lead,2,17.5,25.0,Remote,Prefer not to say,36900,3948.83,40848.83,Fixed-term,2020-11-25,36923,False,True,MISSING_OR_INCONSISTENT_GENDER
+E036998,Not Recorded,Product,Specialist,2,20.4,40.0,Bristol,Prefer not to say,39500,3427.53,42927.53,Part-time,2023-03-12,36999,False,True,MISSING_OR_INCONSISTENT_GENDER
+E037064,Female,Legal,Manager,2,8.2,37.5,Not Recorded,White,43400,7091.04,50491.04,Part-time,2022-08-05,37065,True,False,MISSING_WORK_LOCATION
+E037088,Not Recorded,Engineering,Senior Analyst,1,16.1,20.0,Glasgow,Asian,35000,4550.61,39550.61,Fixed-term,2026-04-15,37089,False,True,MISSING_OR_INCONSISTENT_GENDER
+E037161,Female,Legal,Manager,4,19.9,30.0,Not Recorded,Prefer not to say,56800,609.0,57409.0,Permanent,2022-02-01,37162,True,False,MISSING_WORK_LOCATION
+E037183,Not Recorded,Engineering,Analyst,2,21.7,20.0,Manchester,Other,37800,1015.14,38815.14,Fixed-term,2018-08-10,37184,False,True,MISSING_OR_INCONSISTENT_GENDER
+E037382,Not Recorded,Support,Analyst,1,19.5,35.0,Remote,Other,20000,1354.67,21354.67,Part-time,2018-07-23,37383,False,True,MISSING_OR_INCONSISTENT_GENDER
+E037421,Not Recorded,Operations,Analyst,5,1.4,30.0,Birmingham,Prefer not to say,60200,7532.37,67732.37,Permanent,2025-10-03,37422,False,True,MISSING_OR_INCONSISTENT_GENDER
+E037435,Not Recorded,Support,Senior Analyst,2,12.5,40.0,London,Black,20200,1807.27,22007.27,Permanent,2020-05-11,37436,False,True,MISSING_OR_INCONSISTENT_GENDER
+E037647,Male,Operations,Manager,3,14.2,20.0,Not Recorded,Mixed,38100,3322.44,41422.44,Part-time,2022-06-12,37648,True,False,MISSING_WORK_LOCATION
+E037743,Not Recorded,Support,Specialist,1,5.9,40.0,Birmingham,White,20700,209.53,20909.53,Fixed-term,2023-11-11,37744,False,True,MISSING_OR_INCONSISTENT_GENDER
+E037849,Male,Sales,Manager,2,2.0,30.0,Not Recorded,Mixed,38400,5523.81,43923.81,Part-time,2018-04-09,37850,True,False,MISSING_WORK_LOCATION
+E037953,Female,Support,Specialist,3,12.5,30.0,Not Recorded,Other,31800,644.63,32444.63,Fixed-term,2018-11-11,37954,True,False,MISSING_WORK_LOCATION
+E038137,Not Recorded,Legal,Lead,3,6.2,37.5,Manchester,White,55000,5214.83,60214.83,Fixed-term,2025-08-31,38138,False,True,MISSING_OR_INCONSISTENT_GENDER
+E038248,Male,HR,Analyst,2,0.5,25.0,Not Recorded,Asian,32900,3147.82,36047.82,Permanent,2023-10-31,38249,True,False,MISSING_WORK_LOCATION
+E038353,Not Recorded,Data,Lead,3,21.9,40.0,Remote,Black,47500,3626.55,51126.55,Fixed-term,2021-03-13,38354,False,True,MISSING_OR_INCONSISTENT_GENDER
+E038377,Not Recorded,Marketing,Analyst,3,9.2,20.0,Remote,White,42400,6769.04,49169.04,Permanent,2021-03-26,38378,False,True,MISSING_OR_INCONSISTENT_GENDER
+E038412,Male,HR,Manager,4,11.9,35.0,Not Recorded,Black,56900,413.23,57313.23,Part-time,2020-09-17,38413,True,False,MISSING_WORK_LOCATION
+E038471,Female,Data,Manager,5,14.7,30.0,Not Recorded,Asian,95300,1241.88,96541.88,Fixed-term,2024-02-26,38472,True,False,MISSING_WORK_LOCATION
+E038593,Female,HR,Manager,3,4.0,20.0,Not Recorded,Mixed,35600,587.25,36187.25,Part-time,2019-02-11,38594,True,False,MISSING_WORK_LOCATION
+E038701,Male,HR,Analyst,1,4.0,35.0,Not Recorded,Black,25400,1331.32,26731.32,Fixed-term,2022-03-09,38702,True,False,MISSING_WORK_LOCATION
+E038716,Not Recorded,Finance,Manager,3,10.3,37.5,Bristol,Black,54800,3092.23,57892.23,Part-time,2024-03-25,38717,False,True,MISSING_OR_INCONSISTENT_GENDER
+E038743,Not Recorded,HR,Lead,2,21.3,37.5,Bristol,Black,31100,4189.65,35289.65,Part-time,2020-10-05,38744,False,True,MISSING_OR_INCONSISTENT_GENDER
+E038849,Female,Operations,Manager,3,1.5,37.5,Not Recorded,White,50700,5471.33,56171.33,Permanent,2020-09-09,38850,True,False,MISSING_WORK_LOCATION
+E038886,Female,Product,Senior Analyst,1,5.6,25.0,Not Recorded,Mixed,32800,1994.57,34794.57,Permanent,2026-09-02,38887,True,False,MISSING_WORK_LOCATION
+E038903,Female,Data,Manager,4,2.5,25.0,Not Recorded,Asian,64900,4224.53,69124.53,Part-time,2025-11-03,38904,True,False,MISSING_WORK_LOCATION
+E039081,Female,Marketing,Analyst,2,12.7,20.0,Not Recorded,Asian,37700,5753.43,43453.43,Part-time,2019-02-28,39082,True,False,MISSING_WORK_LOCATION
+E039151,Female,Finance,Lead,3,13.6,30.0,Not Recorded,Asian,38500,3717.82,42217.82,Permanent,2019-11-03,39152,True,False,MISSING_WORK_LOCATION
+E039253,Male,Data,Lead,1,21.9,37.5,Not Recorded,Asian,34600,2080.86,36680.86,Part-time,2024-03-10,39254,True,False,MISSING_WORK_LOCATION
+E039259,Male,Finance,Analyst,1,5.6,25.0,Not Recorded,White,27900,1608.16,29508.16,Permanent,2021-10-09,39260,True,False,MISSING_WORK_LOCATION
+E039469,Female,Data,Analyst,2,2.7,40.0,Not Recorded,White,45000,5547.03,50547.03,Fixed-term,2024-04-12,39470,True,False,MISSING_WORK_LOCATION
+E039547,Not Recorded,Support,Specialist,4,4.3,20.0,Manchester,White,33500,4250.31,37750.31,Permanent,2018-03-24,39548,False,True,MISSING_OR_INCONSISTENT_GENDER
+E039799,Male,Support,Analyst,3,16.3,25.0,Not Recorded,Asian,39500,3484.08,42984.08,Permanent,2020-10-18,39800,True,False,MISSING_WORK_LOCATION
+E040070,Male,Operations,Lead,2,9.1,40.0,Not Recorded,Prefer not to say,33800,2843.17,36643.17,Part-time,2023-01-02,40071,True,False,MISSING_WORK_LOCATION
+E040193,Male,Marketing,Specialist,1,13.9,20.0,Not Recorded,Black,23500,2459.62,25959.62,Part-time,2020-11-11,40194,True,False,MISSING_WORK_LOCATION
+E040459,Male,Finance,Lead,3,17.7,30.0,Not Recorded,White,43600,3727.23,47327.23,Permanent,2021-01-15,40460,True,False,MISSING_WORK_LOCATION
+E040527,Male,Sales,Manager,2,4.4,40.0,Not Recorded,Other,31400,817.32,32217.32,Fixed-term,2018-07-25,40528,True,False,MISSING_WORK_LOCATION
+E040633,Female,Engineering,Manager,2,13.8,20.0,Not Recorded,Prefer not to say,40800,3291.22,44091.22,Permanent,2022-07-22,40634,True,False,MISSING_WORK_LOCATION
+E040734,Male,HR,Senior Analyst,1,3.3,40.0,Not Recorded,White,23700,207.87,23907.87,Permanent,2020-05-27,40735,True,False,MISSING_WORK_LOCATION
+E041003,Male,HR,Lead,4,17.2,35.0,Not Recorded,Asian,44000,6846.29,50846.29,Permanent,2023-07-26,41004,True,False,MISSING_WORK_LOCATION
+E041055,Female,Legal,Analyst,2,20.1,35.0,Not Recorded,Prefer not to say,45100,3263.49,48363.49,Fixed-term,2021-05-24,41056,True,False,MISSING_WORK_LOCATION
+E041084,Not Recorded,Marketing,Specialist,3,12.3,35.0,Remote,White,31300,1686.46,32986.46,Part-time,2025-02-21,41085,False,True,MISSING_OR_INCONSISTENT_GENDER
+E041103,Male,Marketing,Manager,4,13.0,37.5,Not Recorded,Mixed,46600,4461.55,51061.55,Fixed-term,2026-02-03,41104,True,False,MISSING_WORK_LOCATION
+E041104,Male,Support,Senior Analyst,4,14.3,30.0,Not Recorded,White,41200,36.08,41236.08,Fixed-term,2018-01-26,41105,True,False,MISSING_WORK_LOCATION
+E041251,Male,Finance,Senior Analyst,2,8.8,35.0,Not Recorded,Mixed,36100,5040.1,41140.1,Fixed-term,2020-12-19,41252,True,False,MISSING_WORK_LOCATION
+E041281,Female,Sales,Analyst,2,1.7,37.5,Not Recorded,Mixed,42800,5621.78,48421.78,Permanent,2026-03-29,41282,True,False,MISSING_WORK_LOCATION
+E041921,Not Recorded,Sales,Senior Analyst,4,2.2,37.5,London,Prefer not to say,60800,4666.06,65466.06,Fixed-term,2025-01-21,41922,False,True,MISSING_OR_INCONSISTENT_GENDER
+E041965,Not Recorded,Marketing,Specialist,3,21.3,37.5,Birmingham,Prefer not to say,40500,2675.5,43175.5,Fixed-term,2021-11-07,41966,False,True,MISSING_OR_INCONSISTENT_GENDER
+E042052,Male,Support,Analyst,2,12.5,30.0,Not Recorded,Black,26000,1297.04,27297.04,Permanent,2019-09-13,42053,True,False,MISSING_WORK_LOCATION
+E042071,Not Recorded,Operations,Analyst,3,6.7,40.0,London,Black,39700,5114.76,44814.76,Fixed-term,2022-02-12,42072,False,True,MISSING_OR_INCONSISTENT_GENDER
+E042324,Not Recorded,Support,Lead,1,14.6,25.0,London,Black,21300,205.2,21505.2,Permanent,2022-12-26,42325,False,True,MISSING_OR_INCONSISTENT_GENDER
+E042626,Male,Marketing,Lead,2,6.0,35.0,Not Recorded,Asian,22000,2643.13,24643.13,Part-time,2022-07-04,42627,True,False,MISSING_WORK_LOCATION
+E042732,Not Recorded,Data,Senior Analyst,5,7.1,35.0,London,Mixed,61800,169.74,61969.74,Fixed-term,2022-03-24,42733,False,True,MISSING_OR_INCONSISTENT_GENDER
+E042865,Female,Product,Analyst,5,11.1,20.0,Not Recorded,White,70000,3404.82,73404.82,Permanent,2018-06-11,42866,True,False,MISSING_WORK_LOCATION
+E043196,Not Recorded,Support,Specialist,3,17.0,20.0,Birmingham,Asian,33900,238.49,34138.49,Permanent,2023-10-01,43197,False,True,MISSING_OR_INCONSISTENT_GENDER
+E043219,Female,Sales,Manager,5,5.6,25.0,Not Recorded,Black,58100,1448.34,59548.34,Fixed-term,2022-01-01,43220,True,False,MISSING_WORK_LOCATION
+E043344,Not Recorded,Data,Specialist,5,3.8,30.0,Remote,White,115100,6501.1,121601.1,Fixed-term,2021-09-12,43345,False,True,MISSING_OR_INCONSISTENT_GENDER
+E043432,Not Recorded,Operations,Specialist,4,15.2,35.0,London,Asian,46600,489.85,47089.85,Fixed-term,2025-01-17,43433,False,True,MISSING_OR_INCONSISTENT_GENDER
+E043621,Female,Engineering,Senior Analyst,3,3.6,20.0,Not Recorded,Black,54300,8585.27,62885.27,Part-time,2019-12-26,43622,True,False,MISSING_WORK_LOCATION
+E043884,Not Recorded,Marketing,Senior Analyst,1,12.2,40.0,Birmingham,Prefer not to say,20800,2242.12,23042.12,Fixed-term,2024-04-07,43885,False,True,MISSING_OR_INCONSISTENT_GENDER
+E043890,Male,Marketing,Manager,5,10.4,35.0,Not Recorded,Mixed,64100,7638.45,71738.45,Fixed-term,2023-06-30,43891,True,False,MISSING_WORK_LOCATION
+E043967,Female,Engineering,Senior Analyst,3,21.2,20.0,Not Recorded,Prefer not to say,46300,6701.61,53001.61,Fixed-term,2019-01-31,43968,True,False,MISSING_WORK_LOCATION
+E044011,Not Recorded,Engineering,Specialist,3,21.0,40.0,Glasgow,Other,50700,256.29,50956.29,Fixed-term,2022-12-28,44012,False,True,MISSING_OR_INCONSISTENT_GENDER
+E044331,Female,Product,Senior Analyst,3,19.6,35.0,Not Recorded,Prefer not to say,54900,5296.34,60196.34,Part-time,2022-02-27,44332,True,False,MISSING_WORK_LOCATION
+E044378,Female,Operations,Specialist,2,15.4,20.0,Not Recorded,Prefer not to say,36800,5793.91,42593.91,Part-time,2020-02-25,44379,True,False,MISSING_WORK_LOCATION
+E044427,Not Recorded,Support,Analyst,1,19.0,30.0,Bristol,Black,25900,3214.5,29114.5,Permanent,2018-11-30,44428,False,True,MISSING_OR_INCONSISTENT_GENDER
+E044446,Non-binary,Legal,Senior Analyst,3,17.6,35.0,Not Recorded,Prefer not to say,61400,5765.94,67165.94,Fixed-term,2020-07-18,44447,True,False,MISSING_WORK_LOCATION
+E044762,Not Recorded,Finance,Specialist,4,7.1,35.0,Leeds,Prefer not to say,55000,519.83,55519.83,Part-time,2018-12-18,44763,False,True,MISSING_OR_INCONSISTENT_GENDER
+E044887,Male,Data,Analyst,2,6.3,37.5,Not Recorded,Asian,48600,1508.06,50108.06,Fixed-term,2021-02-13,44888,True,False,MISSING_WORK_LOCATION
+E044891,Not Recorded,Support,Senior Analyst,2,19.9,25.0,Leeds,Mixed,30900,1884.39,32784.39,Permanent,2022-03-29,44892,False,True,MISSING_OR_INCONSISTENT_GENDER
+E045116,Male,Finance,Analyst,4,17.6,20.0,Not Recorded,Other,59800,7044.85,66844.85,Part-time,2018-10-30,45117,True,False,MISSING_WORK_LOCATION
+E045284,Male,Legal,Analyst,3,20.2,40.0,Not Recorded,Other,50600,6473.09,57073.09,Permanent,2020-06-05,45285,True,False,MISSING_WORK_LOCATION
+E045318,Not Recorded,Marketing,Analyst,5,17.2,37.5,Manchester,Asian,81700,10587.05,92287.05,Permanent,2024-10-31,45319,False,True,MISSING_OR_INCONSISTENT_GENDER
+E045691,Not Recorded,Data,Senior Analyst,3,4.0,40.0,Glasgow,Prefer not to say,47300,838.41,48138.41,Permanent,2023-06-17,45692,False,True,MISSING_OR_INCONSISTENT_GENDER
+E045844,Female,Engineering,Manager,3,17.1,25.0,Not Recorded,White,59600,2551.47,62151.47,Fixed-term,2018-06-25,45845,True,False,MISSING_WORK_LOCATION
+E045859,Not Recorded,Operations,Specialist,3,10.0,40.0,Birmingham,Black,39700,6232.24,45932.24,Part-time,2024-02-15,45860,False,True,MISSING_OR_INCONSISTENT_GENDER
+E046028,Not Recorded,Product,Manager,2,9.3,40.0,London,Asian,38500,1651.09,40151.09,Fixed-term,2022-12-27,46029,False,True,MISSING_OR_INCONSISTENT_GENDER
+E046036,Female,HR,Analyst,3,8.4,30.0,Not Recorded,Black,39000,1047.56,40047.56,Part-time,2021-12-12,46037,True,False,MISSING_WORK_LOCATION
+E046213,Female,Finance,Manager,2,13.1,40.0,Not Recorded,White,42300,351.11,42651.11,Fixed-term,2023-09-21,46214,True,False,MISSING_WORK_LOCATION
+E046276,Female,Engineering,Specialist,3,8.9,37.5,Not Recorded,Other,57400,2748.46,60148.46,Part-time,2026-09-06,46277,True,False,MISSING_WORK_LOCATION
+E046376,Female,Product,Analyst,2,17.4,40.0,Not Recorded,White,31600,5116.84,36716.84,Part-time,2024-07-13,46377,True,False,MISSING_WORK_LOCATION
+E046405,Not Recorded,Marketing,Analyst,2,17.7,40.0,Manchester,Other,35100,4709.97,39809.97,Fixed-term,2018-08-23,46406,False,True,MISSING_OR_INCONSISTENT_GENDER
+E046429,Male,Legal,Lead,3,18.8,25.0,Not Recorded,Prefer not to say,59000,833.37,59833.37,Part-time,2023-04-23,46430,True,False,MISSING_WORK_LOCATION
+E046444,Not Recorded,Sales,Specialist,2,8.1,30.0,Remote,Asian,35700,809.5,36509.5,Part-time,2022-04-04,46445,False,True,MISSING_OR_INCONSISTENT_GENDER
+E046540,Not Recorded,Marketing,Analyst,2,14.4,40.0,Manchester,Other,38600,2041.56,40641.56,Fixed-term,2025-09-09,46541,False,True,MISSING_OR_INCONSISTENT_GENDER
+E046541,Not Recorded,Operations,Manager,2,11.2,35.0,Glasgow,Other,31500,1602.59,33102.59,Part-time,2018-02-21,46542,False,True,MISSING_OR_INCONSISTENT_GENDER
+E046686,Female,Operations,Manager,3,0.4,20.0,Not Recorded,Prefer not to say,39000,5188.09,44188.09,Permanent,2026-01-14,46687,True,False,MISSING_WORK_LOCATION
+E047117,Not Recorded,Product,Senior Analyst,4,3.6,20.0,Manchester,Asian,70200,10139.81,80339.81,Permanent,2021-07-13,47118,False,True,MISSING_OR_INCONSISTENT_GENDER
+E047152,Female,Operations,Lead,2,0.1,20.0,Not Recorded,Asian,33200,2561.14,35761.14,Part-time,2026-06-06,47153,True,False,MISSING_WORK_LOCATION
+E047270,Female,Data,Lead,2,17.6,40.0,Not Recorded,Black,38500,1468.26,39968.26,Fixed-term,2024-08-27,47271,True,False,MISSING_WORK_LOCATION
+E047306,Not Recorded,Engineering,Senior Analyst,4,1.4,30.0,Birmingham,Other,70000,4232.98,74232.98,Fixed-term,2025-09-22,47307,False,True,MISSING_OR_INCONSISTENT_GENDER
+E047567,Female,Product,Senior Analyst,2,10.7,20.0,Not Recorded,Mixed,33800,2932.1,36732.1,Fixed-term,2026-03-10,47568,True,False,MISSING_WORK_LOCATION
+E047713,Not Recorded,Support,Specialist,4,0.1,35.0,Glasgow,Other,37100,5482.57,42582.57,Permanent,2021-03-31,47714,False,True,MISSING_OR_INCONSISTENT_GENDER
+E047806,Female,HR,Analyst,4,4.0,35.0,Not Recorded,Other,54800,166.68,54966.68,Permanent,2020-11-05,47807,True,False,MISSING_WORK_LOCATION
+E048201,Female,Marketing,Specialist,3,0.6,30.0,Not Recorded,Prefer not to say,33200,3346.8,36546.8,Part-time,2020-04-05,48202,True,False,MISSING_WORK_LOCATION
+E048215,Female,Support,Analyst,1,15.2,37.5,Not Recorded,Prefer not to say,22900,1612.88,24512.88,Fixed-term,2018-12-18,48216,True,False,MISSING_WORK_LOCATION
+E048239,Not Recorded,Finance,Analyst,5,14.8,20.0,Glasgow,Asian,76700,102.19,76802.19,Permanent,2026-06-18,48240,False,True,MISSING_OR_INCONSISTENT_GENDER
+E048245,Male,Finance,Specialist,1,8.9,30.0,Not Recorded,Asian,24700,749.97,25449.97,Part-time,2024-12-14,48246,True,False,MISSING_WORK_LOCATION
+E048321,Male,HR,Analyst,1,16.8,35.0,Not Recorded,Other,23000,3266.57,26266.57,Permanent,2023-11-03,48322,True,False,MISSING_WORK_LOCATION
+E048419,Male,Operations,Lead,3,8.6,37.5,Not Recorded,Black,43500,6356.18,49856.18,Fixed-term,2018-05-04,48420,True,False,MISSING_WORK_LOCATION
+E048512,Female,Sales,Analyst,4,8.8,37.5,Not Recorded,Black,58100,518.03,58618.03,Permanent,2026-02-22,48513,True,False,MISSING_WORK_LOCATION
+E048563,Female,Sales,Analyst,4,13.5,20.0,Not Recorded,White,62700,5214.98,67914.98,Permanent,2021-09-22,48564,True,False,MISSING_WORK_LOCATION
+E048586,Not Recorded,Product,Analyst,2,13.8,25.0,Not Recorded,Asian,46100,625.31,46725.31,Part-time,2023-07-28,48587,True,True,MISSING_WORK_LOCATION | MISSING_OR_INCONSISTENT_GENDER
+E048893,Not Recorded,Sales,Manager,1,5.3,25.0,Manchester,White,23300,336.09,23636.09,Part-time,2020-05-18,48894,False,True,MISSING_OR_INCONSISTENT_GENDER
+E049117,Female,Operations,Analyst,2,18.9,35.0,Not Recorded,Other,32800,2735.01,35535.01,Part-time,2021-02-17,49118,True,False,MISSING_WORK_LOCATION
+E049238,Female,Marketing,Lead,4,11.4,20.0,Not Recorded,White,58300,9453.37,67753.37,Fixed-term,2020-01-13,49239,True,False,MISSING_WORK_LOCATION
+E049486,Female,Engineering,Manager,2,14.1,30.0,Not Recorded,Prefer not to say,38700,6255.26,44955.26,Fixed-term,2021-07-01,49487,True,False,MISSING_WORK_LOCATION
+E049534,Not Recorded,Data,Senior Analyst,2,3.9,30.0,London,Mixed,37500,4833.55,42333.55,Part-time,2019-05-09,49535,False,True,MISSING_OR_INCONSISTENT_GENDER
+E049566,Not Recorded,Support,Specialist,3,5.8,40.0,Leeds,Black,31400,3491.08,34891.08,Fixed-term,2018-11-09,49567,False,True,MISSING_OR_INCONSISTENT_GENDER
+E049679,Female,Legal,Analyst,2,1.7,20.0,Not Recorded,Prefer not to say,39300,2422.98,41722.98,Permanent,2025-04-08,49680,True,False,MISSING_WORK_LOCATION
+E049829,Male,Legal,Specialist,2,7.9,30.0,Not Recorded,Prefer not to say,48700,7659.35,56359.35,Permanent,2019-07-23,49830,True,False,MISSING_WORK_LOCATION
+E049908,Male,Operations,Analyst,2,1.4,20.0,Not Recorded,Prefer not to say,32800,2797.86,35597.86,Permanent,2024-10-17,49909,True,False,MISSING_WORK_LOCATION

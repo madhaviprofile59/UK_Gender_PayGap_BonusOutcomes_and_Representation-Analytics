@@ -1,0 +1,8 @@
+row_category,row_count,status
+Input rows,50000,Passed
+Accepted without warnings,49472,Passed
+Accepted with warnings,408,Passed
+Total accepted,49880,Passed
+Rejected,120,Passed
+Total accounted for,50000,Passed
+Input minus accounted for,0,Passed
